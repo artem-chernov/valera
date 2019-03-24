@@ -26,6 +26,8 @@ SECRET_KEY = 'ogfa1z^^)6y+by4=kg6%xoi54-c3526_c#bct6g-1(4g0gmc80'
 DEBUG = True
 
 ALLOWED_HOSTS = ['134.209.234.100']
+STATIC_URL = '/static/'
+STATIC_ROOT = os.path.join(BASE_DIR, 'static/')
 
 
 # Application definition
