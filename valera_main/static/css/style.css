@@ -100,7 +100,7 @@ td {
 }
 
 .delivery {
-  margin-bottom: 200px;
+  margin-bottom: 200px !important;
 }
 
 .unit-4 .unit-4-icon{
