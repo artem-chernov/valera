@@ -101,7 +101,7 @@ td {
 }
 
 .delivery {
-  margin-bottom: .75rem;
+  margin-bottom: 200px;
 }
 
 .unit-4 .unit-4-icon{
@@ -129,6 +129,3 @@ td {
         	    vertical-align: top;
         	}
         }
-.delivery {
-  margin-bottom: .75rem;
-}
