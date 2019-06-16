@@ -101,7 +101,7 @@ td {
 }
 
 .delivery {
-  margin-bottom: 150px;
+  margin-bottom: 150px !important;
 }
 
 .unit-4 .unit-4-icon{
