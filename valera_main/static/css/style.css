@@ -6,9 +6,6 @@
 .header a {
   color: white;
 }
-.header a:hover {
-  color: red;
-}
 .header {
   background-color: #000000;
 }
@@ -55,13 +52,12 @@
   margin-bottom: 40px;
 }
 
-.btn-card {
-  background-color: black !important;
-  border-color: black !important;
+.card {
+  background-color: #1E1E24 !important;
 }
 
-.card-block a:hover {
-  color: red;
+.card h4, .card p, a, .card-text, .card-title {
+  color: white;
 }
 
 .dropdown-menu a {
@@ -80,9 +76,10 @@ td {
 .product-image {
   text-align: center;
 }
-.product-images {
-  margin-bottom: 80px;
+.product-images.container-fluid {
+  margin: 10px;
 }
+
 .seo-text {
   margin-bottom: 100px;
   font-size: 15px;
@@ -97,7 +94,7 @@ td {
 }
 
 .vendor-btn {
-  padding: 25px;
+  padding: 5px;
 }
 
 .unit-4 .unit-4-icon{
