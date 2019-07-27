@@ -111,7 +111,7 @@ td {
 header {
   position: relative;
   background-color: black;
-  /* height: 75vh; */
+  height: 75vh;
   min-height: 25rem;
   width: 100%;
   overflow: hidden;
@@ -125,7 +125,7 @@ header video {
   min-height: 100%;
   width: auto;
   height: auto;
-  z-index: -1;
+  z-index: 0;
   -ms-transform: translateX(-50%) translateY(-50%);
   -moz-transform: translateX(-50%) translateY(-50%);
   -webkit-transform: translateX(-50%) translateY(-50%);
