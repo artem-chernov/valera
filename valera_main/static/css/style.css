@@ -105,8 +105,8 @@ td {
 }
 
 .slider-top {
-  margin-bottom: 50px;
-  max-width: 90vw;
+  margin-bottom: 50px !important;
+  width: 90vw !important;
 }
 
 header {
