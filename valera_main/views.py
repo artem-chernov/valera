@@ -15,3 +15,18 @@ def lanny_mode(request):
 
 def coeur_joie(request):
         return render(request, 'coeur_joie.html')
+
+def anna_jolly(request):
+        return render(request, 'anna_jolly.html')
+
+def diorella(request):
+        return render(request, 'diorella.html')
+
+def donafen(request):
+        return render(request, 'donafen.html')
+
+def weicy(request):
+        return render(request, 'weicy.html')
+
+def kaminnya(request):
+        return render(request, 'kaminnya.html')

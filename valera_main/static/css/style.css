@@ -54,8 +54,12 @@
   margin-bottom: 40px;
 }
 
+.card {
+  background-color: #1E1E24 !important;
+}
+
 .card h4, .card p, a, .card-text, .card-title {
-  color: black;
+  color: white;
 }
 
 .dropdown-menu a {
@@ -101,7 +105,7 @@ td {
 }
 
 .lead-h4 {
-  margin-bottom: 50px;
+  margin-bottom: 50px !important;
 }
 
 /* Цвет для карточек: #1E1E24 + кнопка #017BFF */
