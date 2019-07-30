@@ -25,8 +25,8 @@ def diorella(request):
 def donafen(request):
         return render(request, 'donafen.html')
 
-def weicy(request):
-        return render(request, 'weicy.html')
+def anfen(request):
+        return render(request, 'anfen.html')
 
-def kaminnya(request):
-        return render(request, 'kaminnya.html')
+def kominnya(request):
+        return render(request, 'kominnya.html')
