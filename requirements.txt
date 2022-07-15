@@ -23,7 +23,7 @@ Django==2.0.3
 django-babel==0.6.2
 django-bootstrap4==0.0.5
 django-cache-url==2.0.0
-django-celery-results==1.0.1
+django-celery-results==2.4.0
 django-countries==5.2
 django-debug-toolbar==1.9.1
 django-elasticsearch-dsl==0.4.4
